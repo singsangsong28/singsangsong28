@@ -8,7 +8,7 @@
 
 ## About
 
-Hi, I'm **Hyeongyu Song** — a **Full-Stack Developer** building with React/Next.js on the frontend and Express on the backend.
+Hi, I'm **Hyeongyu Song** — a **Full-Stack Web Developer** building with React/Next.js on the frontend and Express on the backend.
 
 - Comfortable across the full stack: React/Next.js frontend, ExpressJS backend, MongoDB/PostgreSQL data layer
 - Write in TypeScript byainable code
