@@ -42,7 +42,7 @@ Hi, I'm **Hyeongyu Song** — a **Full-Stack Developer** building with React/Nex
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </a>
 
-## St4ts
+## Stats
 
 <div align="center">
 
