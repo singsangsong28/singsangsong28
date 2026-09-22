@@ -1,15 +1,3 @@
-Comfortable across the full stack: React/Next.js frontend, ExpressJS backend, MongoDB/PostgreSQL data layer
-<div align="center">
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Hyeongyu+Song;Full-Stack+Developer;React+%26+Next.js;TypeScript+%26+Node.js" alt="Typing SVG" />
-</a>
-
-</div>
-✻ Baked for 4s · done 오후 2:29
-
-> 완성 된거 보내줘
-
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
